@@ -2,6 +2,10 @@
 
 This is an example `README.md` file, which we are using when we create a new project setup. The details in this repository are representing the usual setup, details and all important details for the project.
 
+The repository usually contains the whole WordPress directory, together with the Core, all themes and plugins.
+
+Media files are excluded from the repository and we are using an external source or a plugin for getting the images directly from the production/staging/media server.
+
 The repository can be used as an example repository for a new project and it will be improved over the time.
 
 ___
